@@ -71,3 +71,5 @@ DateClass/
 ├── .gitignore
 └── README.md
 
+<img width="1220" alt="Снимок экрана 2025-05-15 в 17 13 40" src="https://github.com/user-attachments/assets/0bd50fb4-6fec-48a6-b32f-711a6fcea1d0" />
+
